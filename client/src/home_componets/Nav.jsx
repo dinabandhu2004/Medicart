@@ -9,7 +9,7 @@ const Nav = () => {
   return (
     <>
       <div className='nav'>
-        <span>Medikart</span>
+        <span>Medicart</span>
 
         {/* Hamburger Icon */}
         <div className='hamburger' onClick={() => setMenuOpen(!menuOpen)}>
